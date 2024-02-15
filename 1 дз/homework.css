@@ -1,0 +1,26 @@
+body {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(96, 124, 248);
+}
+
+.block__content {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(94, 255, 0);
+    text-align: center;
+    margin: 0 auto;
+}
+
+.title__block {
+    color:rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center;
+}
+
+.title__about {
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+}
+
