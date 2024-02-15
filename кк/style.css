@@ -1,0 +1,40 @@
+body {
+    width: 100%;
+    height: 100%;
+    background-color:crimson;
+}
+
+.block_content {
+    width: 500px;
+    height: 400px;
+    background-color: coral;
+}
+
+.title_block {
+    color:white;
+    font-size: 100px;
+    text-align: center;
+}
+.title_about {
+    color:white;
+    font-size: 100px;
+    text-align: center;
+}
+.h1 {
+    font-size:50px;
+}
+.div {
+    width: 90%;
+    height: auto;
+    background-color: red;
+    margin: auto;
+}
+.h3 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 60px;
+}
+.p {
+    font-size: 25px;
+    color:black
+}
